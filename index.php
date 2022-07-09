@@ -3,7 +3,7 @@
 <?php include_once("includes/header.php"); ?>
 
 <!-- Taked $url from Navigation -->
-<?php  $_SESSION['last_url'] = $url; ?>
+<?php  $_SESSION['last_url'] = "index.php"; ?>
 
 <!-- PAGE HEADER -->
 <div class="page_header">
